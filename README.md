@@ -45,11 +45,32 @@ Array tersebut kemudian digunakan untuk melakukan berbagai perhitungan seperti:
 
 # 2️ Screenshot Hasil Eksekusi
 
-Berikut merupakan hasil eksekusi program saat dijalankan.
+Berikut merupakan hasil eksekusi program saat dijalankan :
 
 ![](https://github.com/gusdesindu/01-array/blob/main/Img/screenshot%201.png?raw=true)
 
 ini adalah output dari tambah nilai
+
+
+
+![](https://github.com/gusdesindu/01-array/blob/main/Img/hasi.png?raw=true)
+
+ini adalah output dari hasil
+
+
+
+![](https://github.com/gusdesindu/01-array/blob/main/Img/grafiknilai.png?raw=true)
+
+ini adalah output dari grafik batang
+
+
+
+
+
+![](https://github.com/gusdesindu/01-array/blob/main/Img/grafiknilailulus.png?raw=true)
+
+ini adalah output dari grafik persentase
+
 
 
 ---
