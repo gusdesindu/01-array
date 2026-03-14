@@ -47,16 +47,10 @@ Array tersebut kemudian digunakan untuk melakukan berbagai perhitungan seperti:
 
 Berikut merupakan hasil eksekusi program saat dijalankan.
 
+![](https://github.com/gusdesindu/01-array/blob/main/Img/screenshot%201.png?raw=true)
 
-Output program menampilkan:
+ini adalah output dari tambah nilai
 
-* Data nilai mahasiswa
-* Nilai maksimum
-* Nilai minimum
-* Rata-rata nilai
-* Jumlah mahasiswa lulus dan tidak lulus
-* Grafik perbandingan nilai
-* Grafik persentase kelulusan
 
 ---
 
